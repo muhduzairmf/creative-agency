@@ -17,7 +17,7 @@ To test this website locally, you need to have [Node.js](https://nodejs.org/en/)
 ```
 
 
-To run the Feedback App in development mode, type 
+To run this website in development mode, type 
 
 ```Shell
 	npm run dev
@@ -29,7 +29,7 @@ To build the original source code into JavaScript bundle, type
 	npm run build
 ```
 
-To run the Feedback App in distribution/preview mode, type
+To run this website in distribution/preview mode, type
 
 ```Shell
 	npm run preview
