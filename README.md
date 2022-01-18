@@ -1,5 +1,7 @@
 # Creative Agency 🎨🖌️    
 
+![Creative Agency Banner](banner.png)     
+
 This Creative Agency website is the one of the my practices to enchance my knowledge in Svelte Framework. This website contains Home page, Services page, Works or Portfolios page and Contact page. However, for Contact page, it is only work in client side, which is not integration with any backend solution.
 
 
